@@ -44,12 +44,11 @@ Before any analysis, three real data-quality problems had to be resolved:
 - This reframes the leadership conversation from "why are we overspending" to "why do projects consistently slip by two weeks."
 
 ## Repository Structure
-├── sql/
-│ └── infrastructure_gap_analysis.sql # cleaning, CTEs, window functions
-├── tableau/
-│ └── infrastructure_gap_analysis.twbx # interactive dashboard
-├── reports/
-│ └── executive_summary.pptx # stakeholder-ready findings deck
+
+├── Infrastructure Projects Gap Analysis.pptx   # executive summary deck
+├── Infrastructure Projects Gap Analysis.twbx   # interactive Tableau dashboard
+├── Infrastructure_Projects_Gap_Analysis.sql    # cleaning, CTEs, window functions
+├── Infrastructure_Projects_Insights.xlsx       # supporting Excel breakdowns & pivot summaries
 └── README.md
 
 ## Dashboard Preview
